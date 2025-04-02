@@ -1,0 +1,12 @@
+
+from player_functions import player_compete, Bibble
+
+bot1 = Bibble([1,0.4018604392177144,0.34262677967585164,0.6923569402998615,0.5200981293906843,0.47727998235369773],0,0,0)
+bot2 = Bibble([1,0.4241719529005218,0.6115226152791758,0.5551926295355989,0.43232445167560357,0.6328320406090909],0,0,0)
+total_matches = 10
+# compete_show(bot1,bot2)
+# print(bot1.fitness)
+# print(bot2.fitness)
+
+
+player_compete(bot1)
