@@ -3,7 +3,7 @@ An exploration into how genetic algorithms can recreate the results of the famou
 
 Inspired by research from Prof. Robert Axelrod.
 
-[Cerritos College Honor's Project Fall 2024]
+## [Cerritos College Honor's Project Fall 2024]
 
 Check out my YouTube Video!
 
