@@ -4,5 +4,6 @@ An exploration into how genetic algorithms can recreate the results of the famou
 Inspired by research from Prof. Robert Axelrod.
 
 [Cerritos College Honor's Project Fall 2024]
+https://www.youtube.com/watch?v=9CfdexR_5SQ
 
- Emergence of "Tit for Tat" Strategies were amazing to see.
+In development of research paper.
