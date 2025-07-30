@@ -5,7 +5,7 @@ The following genetic algorithm is designed to model human intuition and percept
 
 _Inspired by research from Prof. Robert Axelrod._
 
-# [Cerritos College Honor's Project Fall 2024]
+# [Honor's Project Fall 2024]
 
 **Check out my YouTube Video!**
 
